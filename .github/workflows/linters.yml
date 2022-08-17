@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@zmekonnen251 
+zmekonnen251
+/
+Budget-App
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Budget-App/.github/workflows/linters.yml
+@zmekonnen251
+zmekonnen251 fix linter errors
+Latest commit 363d3a0 5 days ago
+ History
+ 1 contributor
+44 lines (41 sloc)  1.6 KB
+
 name: Linters
 
 on: pull_request
@@ -8,7 +37,7 @@ env:
 jobs:
   rubocop:
     name: Rubocop
-    runs-on: ub  stylelint:untu-18.04
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-ruby@v1
