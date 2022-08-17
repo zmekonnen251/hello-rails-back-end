@@ -1,24 +1,49 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails backend api only app
 
-Things you may want to cover:
+> Create a Rails api only backend app that followes RESTfull design.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- **Ruby**
+- **Rails**
+- **Postgresql**
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+## Prerequisites
 
-* How to run the test suite
+- You need Ruby v3+, Rails v7+ and Postgresql installed on your machine.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Setup
 
-* Deployment instructions
+- Clone the project `https://github.com/zmekonnen251/hello-rails-back-end.git`
+- navigate to the folder `cd hello-rails-back-end`
+- Install required gems `bundle i`
 
-* ...
+## Usage
+
+- start the server `rails s`
+
+- Enjoy interacting with the app.
+
+## Author
+
+👤 **Zelalem Mekonnen**
+
+- GitHub: [@zelalem251](https://github.com/zmekonnen251)
+- Twitter: [@mek_zela](https://twitter.com/mek_zela)
+- LinkedIn: [Zelalem G. Mekonnen](https://www.linkedin.com/in/zelalem-getachew/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/OybekKayumov/blog-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
